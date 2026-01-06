@@ -15,24 +15,24 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,github java,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,github ,java,vscode" />
 </p>
 
 ---
 
 ## 📂 Projects
-- 🚀 **Educational Website** – IIT-JEE & Foundation batches  
-- 🕒 **Time & Attendance Dashboard** – Angular-based system  
-- 📝 **NEET Mock Test Platform** – Mobile-responsive exam UI  
+-  **Educational Website** – IIT-JEE & Foundation batches  
+-  **Time & Attendance Dashboard** – Angular-based system  
+-  **NEET Mock Test Platform** – Mobile-responsive exam UI  
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK">
+  <a href="(https://www.linkedin.com/in/supriya-sanjay-gaikwad-2b14051b6/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:supriyasanjug@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/>
   </a>
 </p>
