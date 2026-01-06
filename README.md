@@ -18,14 +18,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,github,vscode" />
 </p>
 
----
 
 ## 📂 Projects
 - 🚀 **Educational Website** – IIT-JEE & Foundation batches  
 - 🕒 **Time & Attendance Dashboard** – Angular-based system  
 - 📝 **NEET Mock Test Platform** – Mobile-responsive exam UI  
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -36,8 +33,6 @@
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
