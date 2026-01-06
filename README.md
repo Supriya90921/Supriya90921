@@ -6,14 +6,14 @@
 ---
 
 ## 👩‍💻 About Me
-MSc in Computer Science (Gold Medalist)  
-Front-End Developer (Angular & React)  
-Currently learning **AWS & Advanced JavaScript**  
-Passionate about clean UI, performance & usability  
+-** MSc in Computer Science (Gold Medalist)**  
+- **Front-End Developer (Angular & React)**  
+-**Currently learning **AWS & Advanced JavaScript**  
+-**Passionate about clean UI, performance & usability  **
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,github,java,vscode" />
 </p>
