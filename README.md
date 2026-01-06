@@ -5,11 +5,11 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 -** MSc in Computer Science (Gold Medalist)**  
-- **Front-End Developer (Angular & React)**  
+-**Front-End Developer (Angular & React)**  
 -**Currently learning **AWS & Advanced JavaScript**  
--**Passionate about clean UI, performance & usability  **
+-**Passionate about clean UI, performance & usability**
 
 ---
 
@@ -20,14 +20,14 @@
 
 ---
 
-## 📂 Projects
+##  Projects
 -  **Educational Website** – IIT-JEE & Foundation batches  
 -  **Time & Attendance Dashboard** – Angular-based system  
 -  **NEET Mock Test Platform** – Mobile-responsive exam UI  
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 <p align="center">
   <a href="(https://www.linkedin.com/in/supriya-sanjay-gaikwad-2b14051b6/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
