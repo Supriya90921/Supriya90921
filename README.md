@@ -6,7 +6,7 @@
 ---
 
 ##  About Me
--** MSc in Computer Science (Gold Medalist)**  
+-**MSc in Computer Science (Gold Medalist)**  
 -**Front-End Developer (Angular & React)**  
 -**Currently learning **AWS & Advanced JavaScript**  
 -**Passionate about clean UI, performance & usability**
@@ -39,6 +39,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+
