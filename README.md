@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I+am+Supriya+Sanjay+Gaikwad;Front-End+Developer;+%7C+React+%7C+JavaScript+%7C+Typescript;Building+Clean+%26+Responsive+UIs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I+am+Supriya+Sanjay+Gaikwad;Front-End+Developer;+React+%7C+JavaScript+%7C+Typescript;Building+Clean+%26+Responsive+UIs" />
 </p>
 
 
@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,github,vscode" />
 </p>
 
 ---
@@ -24,15 +24,20 @@
 - 🚀 **Educational Website** – IIT-JEE & Foundation batches  
 - 🕒 **Time & Attendance Dashboard** – Angular-based system  
 - 📝 **NEET Mock Test Platform** – Mobile-responsive exam UI  
-- 📸 **Mumento** – Photography portfolio website  
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Supriya90921E&show_icons=true&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=supriyagaikwad&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supriya90921&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=supriyagaikwad&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
