@@ -30,12 +30,12 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=supriyagaikwad&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Supriya90921&show_icons=true&hide_border=true"
     alt="GitHub Stats"
   />
   <br/>
   <img
-    src="https://streak-stats.demolab.com?user=supriyagaikwad&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Supriya90921&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
