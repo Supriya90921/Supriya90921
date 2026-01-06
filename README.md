@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I+am+Supriya+Sanjay+Gaikwad;Front-End+Developer;Angular+%7C+React+%7C+JavaScript;Building+Clean+%26+Responsive+UIs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I+am+Supriya+Sanjay+Gaikwad;Front-End+Developer;Tech stacks:-+%7C+React+%7C+JavaScript+%7C+Typescript;Building+Clean+%26+Responsive+UIs" />
 </p>
 
 
@@ -30,9 +30,9 @@
 
 ## 📊 GitHub Stats (Animated)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Supriya90921E&show_icons=true&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supriya90921&hide_border=true" />
 </p>
 
 ---
