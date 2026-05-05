@@ -10,7 +10,7 @@
 - **Gold Medalist in BSC( Software Engineering)**
 - **Front-End Developer (Angular & React)**  
 - **Backend developer (.net & Java)**
-- **Currently learning **Ai wnd AWS Cloud for upskilling.**
+- Currently learning **Ai and AWS Cloud for upskilling.**
 - **Passionate about clean UI, performance & usability**
 
 ---
