@@ -6,12 +6,12 @@
 ---
 
 ##  About Me
--**MSc in Computer Science**
--**Gold Medalist in BSC( Software Engineering)**
+- **MSc in Computer Science**
+- **Gold Medalist in BSC( Software Engineering)**
 - **Front-End Developer (Angular & React)**  
 - **Backend developer (.net & Java)**
--**Currently learning **Ai wnd AWS Cloud for upskilling.**
--**Passionate about clean UI, performance & usability**
+- **Currently learning **Ai wnd AWS Cloud for upskilling.**
+- **Passionate about clean UI, performance & usability**
 
 ---
 
